@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RokiSAN89
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on Fashion Tech
+- 💞️ I’m looking to collaborate on Fashion IT
 - 📫 Reach me on saangarerokiatou@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I don't have fun fact, I actually am a fun fact. (ask me about spicy chicken 🐔)
